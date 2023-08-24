@@ -34,5 +34,6 @@
 ![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/f1f93eab-8b6c-4723-91df-d7a0184ab54d)
 ![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/97223c9c-5681-4952-b201-6fa51c969f11)
 ## 상세역할 및 개발과정
-* 두피이미지 데이터 EDA 진행 및 시각화
-* CNN기반 모델 선정 및 개발
+* 두피이미지 및 라벨 데이터 EDA 진행 및 시각화
+* CNN기반 모델 비교, 선정
+* 모델 예측결과 분석 및 개선
