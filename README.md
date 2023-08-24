@@ -7,7 +7,11 @@
 * [상세역할](#상세역할)
 ## 프로젝트 개요
 ### 프로젝트 목표
+* 두피이미지를 통한 탈모 진단 및 제품 추천 시스템 개발하여 관련 제품 매출 증진 및 고객 유치 가능하게 함
 ### 탈모 진단 및 제품 추천 process
+![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/3e058ff6-3398-481e-b4f8-11eba7c81fb3)
+![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/4ab85e03-e3df-4308-95f9-c337447c488f)
+![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/ea30b07a-f326-4025-b554-63729eeddbc1)
 ### 결과
 ## 팀구성 및 역할
 * 이성수
