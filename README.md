@@ -3,8 +3,7 @@
 * [프로젝트 개요](#프로젝트-개요)
 * [팀구성 및 역할](#팀구성-및-역할)
 * [데이터 소개](#데이터-소개)
-* [개발 과정](#개발-과정)
-* [상세역할](#상세역할)
+* [상세역할 및 개발과정](#상세역할-및-개발과정)
 ## 프로젝트 개요
 ### 프로젝트 목표
 * 두피이미지를 통한 탈모 진단 및 제품 추천 시스템 개발하여 관련 제품 매출 증진 및 고객 유치 가능하게 함
@@ -34,7 +33,6 @@
 ![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/3f849e94-7e1a-45dc-9ee6-e51bc232ccc0)
 ![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/f1f93eab-8b6c-4723-91df-d7a0184ab54d)
 ![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/97223c9c-5681-4952-b201-6fa51c969f11)
-## 개발 과정
-## 상세역할
+## 상세역할 및 개발과정
 * 두피이미지 데이터 EDA 진행 및 시각화
 * CNN기반 모델 선정 및 개발
