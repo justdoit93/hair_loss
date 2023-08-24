@@ -35,5 +35,12 @@
 ![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/97223c9c-5681-4952-b201-6fa51c969f11)
 ## 상세역할 및 개발과정
 * 두피이미지 및 라벨 데이터 EDA 진행 및 시각화
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/5799fbfd-b733-434e-a76c-017e53fc9523)
+
 * CNN기반 모델 비교, 선정
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/66c9794d-8dbb-4901-9de5-3286f8c1581c)
+
 * 모델 예측결과 분석 및 개선
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/97f7171e-414d-48c3-ad95-bdb7b482d21a)
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/eb51dffe-0626-45b0-96ca-69b7459bee0e)
+
