@@ -26,7 +26,7 @@
 
 ### 결과
 
-* 모델결과
+모델결과
   
 ![image](https://github.com/justdoit93/hair_loss/assets/129941418/8dd5eaae-1e55-4d4d-a942-3936418179e4)
 
