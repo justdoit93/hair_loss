@@ -9,16 +9,24 @@
 * 💡[기대효과](#기대효과)
   
 ## 📋프로젝트 개요
+* 탈모 환자수 증가 및 탈모 제품 매출 증가 (2020년 대비 2021년 76% 증가 출처:올리브영)
+
+
 ### 프로젝트 목표
-* 두피이미지를 통한 탈모 진단 및 제품 추천 시스템 개발하여 관련 제품 매출 증진 및 고객 유치 가능하게 함
+* 두피이미지를 통한 탈모 진단 및 제품 추천 시스템 개발하여 관련 제품 매출 증진 및 고객 유치 가능하게 함 (매장 셀프 탈모 진단 기계 설치)
+
+
 ### 탈모 진단 및 제품 추천 process
-![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/3e058ff6-3398-481e-b4f8-11eba7c81fb3)
-![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/4ab85e03-e3df-4308-95f9-c337447c488f)
-![image](https://github.com/justdoit93/illegal_right_turn_detection/assets/129941418/ea30b07a-f326-4025-b554-63729eeddbc1)
+
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/c82fc56f-2548-4cc9-8238-34a3528b5086)
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/f3a9c7b9-d773-42fb-a2e4-7c83009d0e78)
+
+* 기계의 두피 전용 카메라를 통해 촬영하면 탈모 진단 및 제품 추천
+* 기계의 화면과 영수증에 진단 결과 출력
+
 ### 결과
-![image](https://github.com/justdoit93/hair_loss/assets/129941418/e163d3d5-3933-43b6-a2ef-833a6ec2b892)
-![image](https://github.com/justdoit93/hair_loss/assets/129941418/142700ef-da23-4103-b3d0-812a9f6fca5d)
-![image](https://github.com/justdoit93/hair_loss/assets/129941418/ec4663a7-001c-46ae-97b4-9bf40815caf7)
+![image](https://github.com/justdoit93/hair_loss/assets/129941418/8dd5eaae-1e55-4d4d-a942-3936418179e4)
+
 
 ## 🙋팀구성 및 역할
 * 이성수
