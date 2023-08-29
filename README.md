@@ -27,6 +27,7 @@
 ### 결과
 
 * 모델결과
+  
 ![image](https://github.com/justdoit93/hair_loss/assets/129941418/8dd5eaae-1e55-4d4d-a942-3936418179e4)
 
   * LeNet, ResNet, DenseNet 모두 accuracy 70% 대로 큰 차이를 보이지는 않음
